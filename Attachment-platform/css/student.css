@@ -1,0 +1,17 @@
+.insurance{
+    display: flex;
+   box-shadow: var(--color-green) 0 0 10px;
+   width: 100%;
+   align-items: center;
+   justify-content: center;
+}
+.insurance table{
+    width: 70%;
+}
+.insurance table tr td {
+    border-collapse: collapse;
+    padding:10px;
+}
+.status{
+    color: var(--color-red);
+}
